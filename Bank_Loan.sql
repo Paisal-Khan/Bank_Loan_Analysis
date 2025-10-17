@@ -199,28 +199,3 @@ FROM Loan_Data
 WHERE grade = 'A'
 GROUP BY purpose
 ORDER BY purpose
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
